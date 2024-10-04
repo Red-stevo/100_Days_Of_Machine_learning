@@ -1,21 +1,21 @@
 # 100_Days_Of_Machine_learning
 Machine Learning in 100 days. (Python)
 
-Weeks 1-2: Python and Data Basics <br />
-Days 1-7: Python Fundamentals <br />
-• Day 1: Set up your Python environment (install Python, Jupyter Notebook, etc.). Learn <br />
-about variables, data types, and basic operations.<br />
-• Day 2: Learn about control flow (if-else statements, loops) and functions.<br />
-• Day 3: Understand lists, dictionaries, and tuples.<br />
-• Day 4: Dive into basic string manipulation and file handling.<br />
-• Day 5: Explore Python libraries like math, random, and others.<br />
-• Day 6: Learn how to work with lists and dictionaries using comprehensions.<br />
-• Day 7: Review and practice by solving beginner-level problems (commit solutions).<br />
-Days 8-14: Data Handling with NumPy and Pandas<br />
-• Day 8: Introduction to NumPy: Arrays, basic operations.<br />
-• Day 9: More NumPy: Array manipulation, indexing, slicing. <br />
-• Day 10: Introduction to Pandas: Series, DataFrames, basic operations.<br />
-• Day 11: Data manipulation with Pandas: Sorting, filtering, grouping.<br />
+Weeks 1-2: Python and Data Basics <br /> ✅
+Days 1-7: Python Fundamentals <br /> ✅
+• Day 1: Set up your Python environment (install Python, Jupyter Notebook, etc.). Learn <br />✅
+about variables, data types, and basic operations.<br />✅
+• Day 2: Learn about control flow (if-else statements, loops) and functions.<br />✅
+• Day 3: Understand lists, dictionaries, and tuples.<br />✅
+• Day 4: Dive into basic string manipulation and file handling.<br />✅
+• Day 5: Explore Python libraries like math, random, and others.<br />✅
+• Day 6: Learn how to work with lists and dictionaries using comprehensions.<br />✅
+• Day 7: Review and practice by solving beginner-level problems (commit solutions).<br />✅
+Days 8-14: Data Handling with NumPy and Pandas<br />✅
+• Day 8: Introduction to NumPy: Arrays, basic operations.<br />✅
+• Day 9: More NumPy: Array manipulation, indexing, slicing. <br />✅
+• Day 10: Introduction to Pandas: Series, DataFrames, basic operations.<br />✅
+• Day 11: Data manipulation with Pandas: Sorting, filtering, grouping.<br />✅
 • Day 12: Handling missing data, merging and joining DataFrames.<br />
 • Day 13: Introduction to data visualization with Matplotlib.<br />
 • Day 14: Practice by analyzing a simple dataset (commit the analysis).<br />
